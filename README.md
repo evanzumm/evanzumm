@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **evanzumm/evanzumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <p>💚 Hello! I am Emily Van Zummeren 💚</p>
 <p>❤️ I am currently studying Full Stack Web Development at ASU Online ❤️</p>
 <p> I currently work at Starbucks ☕ but hope to still work for them after graduation. I don't know much about coding, but do enjoy learning it! I really enjoy graphic design and hope to build a diverse set of skills with my degree 🎓</p>
+<p>[Code pen](https://codepen.io/evanzumm)</p>
